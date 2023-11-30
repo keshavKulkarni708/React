@@ -8,6 +8,7 @@ function TodoTable(props) {
           <th scope="col">#</th>
           <th scope="col">Description</th>
           <th scope="col">Assigned</th>
+          <th scope="col">Delete Row</th>
         </tr>
       </thead>
       <tbody>
